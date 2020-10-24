@@ -15,21 +15,20 @@ UTMCC DataViz Module 14
 
 ## Overview 
   
-  In support of Rob. 
+  In support of . 
 
    ### Purpose
    To prepare a new . 
   
    The deliverables are: 
-   - Deliverable 1: Scr
-   - Deliverable 2: Upda
-   - Deliverable 3: Ad.
-  
+   - Deliverable 1: Change Trip Duration to a Datetime Format
+   - Deliverable 2: Create Visualizations for the Trip Analysis
+   - Deliverable 3: Create a Story and Report for the Final Presentation
    
-  
+
    ### Resources
-  * Data/content sources: t 
-  * Software: Windows10, Python 3.8.3, Jupyter Notebook, VS Code 1.49.1, HTML, Splinter, BeautifulSoup 2.0.1, Flask 1.1.2, flask_pymongo 2.3.0, HTML 5, JavaScript, Bootstrap 3.3.7, MongoDB 4.4.1
+  * Data/content source file: 201908-citibike-tripdata.csv
+  * Software: Windows10, Python 3.8.3, Jupyter Notebook, VS Code 1.49.1, Tableau Public 
   
 <br>
 --- 
@@ -38,11 +37,11 @@ UTMCC DataViz Module 14
 
    Below . 
 
-### Deliverable 1: The
+### Deliverable 1: Change Trip Duration to a Datetime Format
 
-### Deliverable 2: The 
+### Deliverable 2: Create Visualizations for the Trip Analysis
 
-### Deliverable 3: The 
+### Deliverable 3: Create a Story and Report for the Final Presentation
 
 
 
@@ -62,7 +61,7 @@ UTMCC DataViz Module 14
 # Summary
 
 ### Questions and Replies 
-  1. **How m
+  1. abc 
 
 
 
