@@ -39,7 +39,7 @@ Tableau
 
 ## Results
 
-   Below . 
+   Below see (There are at least seven visualizations for the NYC Citibike analysis, and There is a description of the results for each visualization ) . 
 
 ### Deliverable 1: Change Trip Duration to a Datetime Format
 
@@ -62,6 +62,18 @@ Tableau
 
 
 
+   | **Item** | **def** |
+   | :---: | :---: |
+   | **1** | ![]() |
+   | **2** | ![]() |
+   | **3** | ![]() |
+   | **4** | ![]() |
+   | **5** | ![]() |
+   | **6** | ![]() |   
+   | **7** | ![]() |
+   | **8** | ![]() |  
+   
+
 .
 
 
@@ -71,9 +83,10 @@ Tableau
 
 
  
-   | **abc** |
-   | :---: |
-   | ![]() |
+   | **Item** | **def** |
+   | :---: | :---: |
+   | **Story** | ![]() |
+   | **Report** | ![]() |
 
 
 
@@ -84,11 +97,17 @@ Tableau
 
 # Summary
 
-### Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+###  a high-level summary of the results 
+
+
+### Additional visualizations for future analysis (with the given dataset).
   1. abc 
+  2. def 
 
-
-
+   | **Item** | **def** |
+   | :---: | :---: |
+   | **1** | ![]() |
+   | **2** | ![]() |
 
 
 
