@@ -39,7 +39,8 @@ Tableau
 
 ## Results
 
-   Below see (There are at least seven visualizations for the NYC Citibike analysis, and There is a description of the results for each visualization ) . 
+   Below are outlined the results of the Challenge Deliverable items.  
+   
 
 ### Deliverable 1: Change Trip Duration to a Datetime Format
 
@@ -47,22 +48,22 @@ Tableau
    | **Item** | **Examples from the Python, Jupyter Notebook code and results** |
    | :---: | :---: |
    | The code line used for the conversion and addition of a new column. | ![tripduration_dt_codeline.png](https://github.com/larrydodson/bikesharing/blob/main/tripduration_dt_codeline.png) |
-   | Added new column: tripduration_dt | ![tripduration_dt_table.png](https://github.com/larrydodson/bikesharing/blob/main/tripduration_dt_table.png) |
-   | Confirming the data type of the new column.<br> and, Outputting a new csv file. | ![citibike_datatypes.png](https://github.com/larrydodson/bikesharing/blob/main/citibike_datatypes.png) |
+   | Added new column within the df: tripduration_dt | ![tripduration_dt_table.png](https://github.com/larrydodson/bikesharing/blob/main/tripduration_dt_table.png) |
+   | Confirming the data type of the new column.<br> and, Outputting a new csv file, without the df index. | ![citibike_datatypes.png](https://github.com/larrydodson/bikesharing/blob/main/citibike_datatypes.png) |
    
    
 .
 
 ### Deliverable 2: Create Visualizations for the Trip Analysis
 
-#### Visualizations showing:
+#### Visualizations showing:  (There are at least seven visualizations for the NYC Citibike analysis, and a description of the results for each visualization ).
   1. How long bikes are checked out for all riders and genders.
   2. How many trips are taken by the hour for each day of the week, for all riders and genders.
   3. A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
 
 
-   | **Item** | **def** |
+   | **Item Description** | **Visualization sample** |
    | :---: | :---: |
    | **1** | ![]() |
    | **2** | ![]() |
@@ -83,7 +84,7 @@ Tableau
 
 
  
-   | **Item** | **def** |
+   | **Item** | **Viz** |
    | :---: | :---: |
    | **Story** | ![]() |
    | **Report** | ![]() |
@@ -98,13 +99,14 @@ Tableau
 # Summary
 
 ###  a high-level summary of the results 
+   Abc def sllsl.
 
 
 ### Additional visualizations for future analysis (with the given dataset).
   1. abc 
   2. def 
 
-   | **Item** | **def** |
+   | **Item Description** | **Visualization** |
    | :---: | :---: |
    | **1** | ![]() |
    | **2** | ![]() |
