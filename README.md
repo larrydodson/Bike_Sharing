@@ -43,6 +43,14 @@ Tableau
 ### Deliverable 1: Change Trip Duration to a Datetime Format
 
 
+   | **abc** | **cde** |
+   | :---: | :---: |
+   | a | ![tripduration_dt_codeline.png](https://github.com/larrydodson/bikesharing/blob/main/tripduration_dt_codeline.png) |
+   | b | ![citibike_datatypes.png](https://github.com/larrydodson/bikesharing/blob/main/citibike_datatypes.png) |
+   | c | ![tripduration_dt_table.png](https://github.com/larrydodson/bikesharing/blob/main/tripduration_dt_table.png) |
+   
+   
+.
 
 ### Deliverable 2: Create Visualizations for the Trip Analysis
 
