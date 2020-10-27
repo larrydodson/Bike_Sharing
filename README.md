@@ -43,11 +43,11 @@ Tableau
 ### Deliverable 1: Change Trip Duration to a Datetime Format
 
 
-   | **abc** | **cde** |
+   | **Item** | **Examples from the Python, Jupyter Notebook code and results** |
    | :---: | :---: |
-   | a | ![tripduration_dt_codeline.png](https://github.com/larrydodson/bikesharing/blob/main/tripduration_dt_codeline.png) |
-   | b | ![citibike_datatypes.png](https://github.com/larrydodson/bikesharing/blob/main/citibike_datatypes.png) |
-   | c | ![tripduration_dt_table.png](https://github.com/larrydodson/bikesharing/blob/main/tripduration_dt_table.png) |
+   | The code line used for the conversion and addition of a new column. | ![tripduration_dt_codeline.png](https://github.com/larrydodson/bikesharing/blob/main/tripduration_dt_codeline.png) |
+   | Added new column: tripduration_dt | ![tripduration_dt_table.png](https://github.com/larrydodson/bikesharing/blob/main/tripduration_dt_table.png) |
+   | Confirming the data type of the new column. | ![citibike_datatypes.png](https://github.com/larrydodson/bikesharing/blob/main/citibike_datatypes.png) |
    
    
 .
