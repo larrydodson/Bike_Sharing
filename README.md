@@ -1,8 +1,8 @@
 # bikesharing
-UTMCC DataViz Module 14
+UTMCC DataViz Module 14, NYC_CitiBike_Challenge
 
-
-[link to dashboard](LINK GOES HERE)
+Tableau  
+  [link to dashboard](LINK GOES HERE)
 
 ---
 
