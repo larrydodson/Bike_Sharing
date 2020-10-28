@@ -18,10 +18,10 @@ Tableau
 
 ## Overview 
   
-  The project is in support of Kate, to build a business presentation that supports establishing a bike share enterprise in Des Moines, IA. The source data on rides, customers and locations is from "NYC Citi Bike", already an operation in New York city. 
+  The project is in support of Kate, to generate a business presentation that supports establishing a bike share enterprise in Des Moines, IA. The source data on rides, customers and locations is from "NYC Citi Bike", already an operation in New York city. 
 
    ### Purpose
-   To prepare a visualization business proposal that will use data-based dashboards and a data-analysis story to support creation of a new company for bicycle sharing/renting in Des Moines. Data is from the "NYC Citi Bike" bike-share business for August 2019, used as the model, and data handling and presentation Dashboards and Story building are created using the "Tableau Public" web-based software tool.
+   To prepare a visualization business proposal that will use data-based dashboards and a data-analysis story to support creation of a new company for bicycle sharing/renting in Des Moines. Data is from the "NYC Citi Bike" bike-share business for August 2019, used as the model. Data handling and presentation Dashboards and Story building are created using the "Tableau Public" web-based software tool.
  
    The deliverables are: 
    - Deliverable 1: Change Trip Duration to a Datetime Format
