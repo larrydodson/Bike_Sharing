@@ -18,11 +18,11 @@ Tableau
 
 ## Overview 
   
-  In support of . 
+  In support of Kate, to build a business presentation that supports a project to establish a bike share enterprise in Des Moines, IA. Source data and overall business model to emulate and to borrow information is from "NYC Citi Bike", already an operation in New York city. 
 
    ### Purpose
-   To prepare a new . 
-  
+   To prepare a business proposal that will use data-based dashboards and a data-analysis story to support establishing a new business of bicycle rent/sharing business in Des Moines. Data is from the "NYC Citi Bike" bike-share business for August 2019, used as the model, and data handling and presentation Dashboards and Story building are created using the "Tableau Public" web-based software tool.
+ 
    The deliverables are: 
    - Deliverable 1: Change Trip Duration to a Datetime Format
    - Deliverable 2: Create Visualizations for the Trip Analysis
@@ -38,7 +38,6 @@ Tableau
 --- 
 
 ## Results
-
    Below are outlined the results of the Challenge Deliverable items.  
    
 
