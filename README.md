@@ -2,7 +2,11 @@
 UTMCC DataViz Module 14, NYC_CitiBike_Challenge
 
 ### Link to the Story at Tableau Public:  
-  [link to dashboard](LINK GOES HERE)
+  [https://public.tableau.com/profile/larry.dodson#!/vizhome/NYCCitibikeAnalysisStoryPresentation/NYCCityBikeStory?publish=yes](https://public.tableau.com/profile/larry.dodson#!/vizhome/NYCCitibikeAnalysisStoryPresentation/NYCCityBikeStory?publish=yes)
+
+
+https://public.tableau.com/profile/larry.dodson#!/vizhome/NYCCitibikeAnalysisStoryPresentation/NYCCityBikeStory?publish=yes
+
 
 ---
 
