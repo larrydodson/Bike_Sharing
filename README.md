@@ -64,13 +64,13 @@ Tableau
 
    | **Item Description** | **Visualization sample** |
    | :---: | :---: |
-   | **1. Line Graph displaying the number of Bikes checked out by duration for all Riders. Filtered by: the Hour ** | ![ChkoutDur_line.png](https://github.com/larrydodson/bikesharing/blob/main/ChkoutDur_line.png) |
-   | **2. Line Graph displaying the number of Bikes that are checked out by duration for each Gender by the Hour. Filtered by: the Hour and Gender** | ![ChkoutDur_Gender_line.png](https://github.com/larrydodson/bikesharing/blob/main/ChkoutDur_Gender_line.png) |
+   | **1. A Line Graph displaying the number of Bikes checked out by duration for all Riders. Filtered by: the Hour** | ![ChkoutDur_line.png](https://github.com/larrydodson/bikesharing/blob/main/ChkoutDur_line.png) |
+   | **2. Line Graphs displaying the number of Bikes that are checked out by duration for each Gender by the Hour. Filtered by: the Hour and Gender** | ![ChkoutDur_Gender_line.png](https://github.com/larrydodson/bikesharing/blob/main/ChkoutDur_Gender_line.png) |
    | **3. A Heatmap showing the number of Bike Trips for Each Hour of Each Day of the Week.** | ![TripWeekdayHr_heat.png](https://github.com/larrydodson/bikesharing/blob/main/TripWeekdayHr_heat.png) |
    | **4. A Heatmap showing the number of Bike Trips by Gender for Each Hour of Each Day of the Week. Filtered by Gender** | ![TripWeekdayHr_Gender_heat.png](https://github.com/larrydodson/bikesharing/blob/main/TripWeekdayHr_Gender_heat.png) |
    | **5. A Heatmap showing the number of Bike Trips for Each Type of User and Gender for Each Day of the Week. Filtered by: User and Gender** | ![TripWeekdayHr_User_Gender_heat.png](https://github.com/larrydodson/bikesharing/blob/main/TripWeekdayHr_User_Gender_heat.png) |
-   | **6. ** | ![]() |
-   | **7. ** | ![]() |
+   | **6. A Bar Chart displaying the Peak Hours of Bike Checkout for All Riders. Indicating peak hours for days in August 2019 were from 3:00PM to 8:00PM.** | ![Aug_PeakHrsDay_bar.png](https://github.com/larrydodson/bikesharing/blob/main/Aug_PeakHrsDay_bar.png) |
+   | **7. An Area Graph, showing the Average Trip Duration by Customer Age and by Gender. The Graph indicates a balance between the three sub-groups.** | ![AveTripDur_AgeGen_area.png](https://github.com/larrydodson/bikesharing/blob/main/AveTripDur_AgeGen_area.png) |
 
    
 
