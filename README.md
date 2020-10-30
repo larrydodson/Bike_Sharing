@@ -64,14 +64,14 @@ Tableau
 
    | **Item Description** | **Visualization sample** |
    | :---: | :---: |
-   | **1** | ![]() |
-   | **2** | ![]() |
-   | **3** | ![]() |
-   | **4** | ![]() |
-   | **5** | ![]() |
-   | **6** | ![]() |   
-   | **7** | ![]() |
-   | **8** | ![]() |  
+   | **1. Line Graph displaying the number of Bikes checked out by duration for all Riders. Filtered by: the Hour ** | ![ChkoutDur_line.png](https://github.com/larrydodson/bikesharing/blob/main/ChkoutDur_line.png) |
+   | **2. Line Graph displaying the number of Bikes that are checked out by duration for each Gender by the Hour. Filtered by: the Hour and Gender** | ![ChkoutDur_Gender_line.png](https://github.com/larrydodson/bikesharing/blob/main/ChkoutDur_Gender_line.png) |
+   | **3. A Heatmap showing the number of Bike Trips for Each Hour of Each Day of the Week.** | ![TripWeekdayHr_heat.png](https://github.com/larrydodson/bikesharing/blob/main/TripWeekdayHr_heat.png) |
+   | **4. A Heatmap showing the number of Bike Trips by Gender for Each Hour of Each Day of the Week. Filtered by Gender** | ![TripWeekdayHr_Gender_heat.png](https://github.com/larrydodson/bikesharing/blob/main/TripWeekdayHr_Gender_heat.png) |
+   | **5. A Heatmap showing the number of Bike Trips for Each Type of User and Gender for Each Day of the Week. Filtered by: User and Gender** | ![TripWeekdayHr_User_Gender_heat.png](https://github.com/larrydodson/bikesharing/blob/main/TripWeekdayHr_User_Gender_heat.png) |
+   | **6. ** | ![]() |
+   | **7. ** | ![]() |
+
    
 
 .
@@ -85,9 +85,10 @@ Tableau
  
    | **Item** | **Viz** |
    | :---: | :---: |
-   | **Story** | ![]() |
+   | **Story** | ![CitiBike_DashB1.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB1.png) |
    | **Report** | ![]() |
-
+   | **7** | ![]() |
+   | **8** | ![]() |  
 
 
 
@@ -107,8 +108,8 @@ Tableau
 
    | **Item Description** | **Visualization** |
    | :---: | :---: |
-   | **1** | ![]() |
-   | **2** | ![]() |
+   | **1. Average Trip Duration by Customer Type and Gender** | ![AveTripDur_CustGen_bar.png](https://github.com/larrydodson/bikesharing/blob/main/AveTripDur_CustGen_bar.png) |
+   | **2. Most Popular Routes, by Top Ten Starting Locations** | ![Routes_StartEnd_bar.png](https://github.com/larrydodson/bikesharing/blob/main/Routes_StartEnd_bar.png) |
 
 
 
