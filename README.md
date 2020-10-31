@@ -3,9 +3,9 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
 
 ## Title: NYC Citibike Analysis as a Study for a New Business in Des Moines 
 
-
-| :--- | :---:|
-| Link to the Story at Tableau Public: | [https://public.tableau.com/profile/larry.dodson#!/vizhome/NYCCitibikeAnalysisStoryPresentation/NYCCityBikeStory?publish=yes](https://public.tableau.com/profile/larry.dodson#!/vizhome/NYCCitibikeAnalysisStoryPresentation/NYCCityBikeStory?publish=yes) |
+| Link to the Story at Tableau Public: |
+| :--- |
+|  [https://public.tableau.com/profile/larry.dodson#!/vizhome/NYCCitibikeAnalysisStoryPresentation/NYCCityBikeStory?publish=yes](https://public.tableau.com/profile/larry.dodson#!/vizhome/NYCCitibikeAnalysisStoryPresentation/NYCCityBikeStory?publish=yes) |
 
 
 ---
@@ -21,9 +21,9 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
 
 ## Overview and Purpose 
   
-  The project is to generate a business proposal that supports establishing a new bike-share company in Des Moines, IA. 
+  The project is to generate a business proposal with visuals that supports establishing a new bike-share company in Des Moines, Iowa. 
   
-  The presentation materials of the proposal includes several key data visualizations of graphs and charts, and are used to create dashboards and a data-analysis Story. The reference source data is from the "NYC Citibike" bike-share business, for August 2019, and includes information on the number of rides, customers demographics, and stations' locations. Overall, the data is used as a comparison with a similar like-business. Data handling and presentation Dashboards and Story building are created using the "Tableau Public" web-based software tool.
+  The presentation materials of the proposal include several key data visualizations of graphs and charts, and are used to create dashboards and a data-analysis Story. The reference source data is from the "NYC Citibike" bike-share business, for August 2019, and includes information on the number of rides, customers demographics, and stations' locations. Overall, the data is used as a comparison with a similar like-business. Data handling and presentation Dashboards and Story building are created using the "Tableau Public" web-based software tool.
  
    The deliverables are: 
    - Deliverable 1: Change Trip Duration to a Datetime Format
@@ -102,7 +102,7 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
    | **Item Description** | **Visualization** |
    | :--- | :---: |
    | **1. Average Trip Duration by Customer Type and Gender** <br> A further deep-dive into the customer, and the reasons for using the services would be helpful to maintain competitiveness to reach profitability and against other similar competing services.  | ![AveTripDur_CustGen_bar.png](https://github.com/larrydodson/bikesharing/blob/main/AveTripDur_CustGen_bar.png) |
-   | **2. Most Popular Routes, by Top Ten Starting Locations** <br> Additional and more complete information on the most popular or used bike routes would be helpful in planning for equipement usage, durations, and inventory locations, and servce team member locations. | ![Routes_StartEnd_bar.png](https://github.com/larrydodson/bikesharing/blob/main/Routes_StartEnd_bar.png) |
+   | **2. Most Popular Routes, by Top Ten Starting Locations** <br> Additional and more complete information on the most popular or used bike routes would be helpful in planning for equipment usage, durations, and inventory locations, and service team member locations. | ![Routes_StartEnd_bar.png](https://github.com/larrydodson/bikesharing/blob/main/Routes_StartEnd_bar.png) |
    
 .
 
