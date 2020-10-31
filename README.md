@@ -95,7 +95,7 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
 
 # Summary
 
-####  Using the information from NYC Citibike is very valuable in planning for a new company to do similar business in Des Moines. Although Des Moines if very different from NYC, much information and the overall business plan can benefit from this information is used properly. From it we can estimate Users (customers), Lengths of time of checkouts by Users, the equipment types and quantities, and the locations. <br> What is needed to complete a business plan are costs of doing business, including the capital equipment, maintenance and repairs, insurance, licensing and permits, legal costs for set up and protections, and to arrive at a target rental fee structure. 
+####  Using the information from NYC Citibike is very valuable in planning for a new company to do similar business in Des Moines. Although Des Moines if very different from NYC, the overall business plan can benefit from using this information properly. From it we can estimate Users (customers), Lengths of time of checkouts by Users, the equipment types and quantities, and the locations. <br> What is needed to complete a business plan are costs of doing business, including the capital equipment, maintenance and repairs, insurance, licensing and permits, legal costs for set up and protections, and to arrive at a target rental fee structure. 
 
 
 ### Additional visualizations for future analysis (with the given dataset).
