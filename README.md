@@ -82,11 +82,11 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
  
    | **Story** | **Visualization** |
    | :--- | :---: |
-   | **1.**  - Total number of Rides = 2,344,224.  <br>- Aug is a busy month, with higher tourist traffic. <br>- Ave trip duration is higher with younger riders. <br>- By Users, or Riders, most are Subscribers, and most are Males. <br>- The Peak Hours in a given day are from 3PM to 8PM. <br>- There are 1,000s of Starting and respective Ending locations.) | ![CitiBike_DashB1.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB1.png) |
-   | **2.**  -  | ![CitiBike_DashB2.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB2.png) | 
-   | **3.**  -  | ![CitiBike_DashB3.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB3.png) | 
-   | **4.**  -  | ![CitiBike_DashB4.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB4.png) |    
-   | **5.**  -  | ![CitiBike_DashB5.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB5.png) |
+   | **1.**  Total number of Rides = 2,344,224.  <br>- Aug is a busy month, with higher tourist traffic. <br>- Ave trip duration is higher with younger riders. <br>- By Users, or Riders, most are Subscribers, and most are Males. <br>- The Peak Hours in a given day are from 3PM to 8PM. <br>- There are 1,000s of Starting and respective Ending locations.) | ![CitiBike_DashB1.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB1.png) |
+   | **2.**  Customers: Info to help predict User Profiles <br>- Subscribers are >4 times the no. of non-Subscribers. <br>- Ave Trip Duration is higher with Females, and Customers (non-Subscribers), with much higer Trip Durations. | ![CitiBike_DashB2.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB2.png) | 
+   | **3.**  A balance exists at a higher no. of Male Users, with longer Trips by Females Users. <br>- The most used times/days are also by the highest overall Users, Males, with Peak Times on Thurs and Fridays, and next busiest on Mon and Tues.  | ![CitiBike_DashB3.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB3.png) | 
+   | **4.**  A Focus on Trip Routes will allow for good Planning and inventory locations for equipment. <br>- There are thousands of Starting and Ending locations, with most as the same location. | ![CitiBike_DashB4.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB4.png) |    
+   | **5.**  Bicycle Usage is shown, and can be used as  preparation planning for Maintence as a Major Cost. <br>- Other major costs are likely to be: Initial Capital Equipment, Labor, Storage, Licensing fees, Training, Insurance. <br>- With unique I.D.s on equipment, Maintenance and Inventory locations can be tracked and updated, to plan for cost of these items, and most efficient locations. | ![CitiBike_DashB5.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB5.png) |
 
 
 <br>
@@ -100,8 +100,8 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
 
 
 ### Additional visualizations for future analysis (with the given dataset).
-  1. abc 
-  2. def 
+  Please see the table below: 
+  
 
    | **Item Description** | **Visualization** |
    | :--- | :---: |
