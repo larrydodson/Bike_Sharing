@@ -52,19 +52,15 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
    | **Item** | **Examples from the Python, Jupyter Notebook code and results** |
    | :---: | :---: |
    | The code line used for the conversion and addition of a new column. | ![tripduration_dt_codeline.png](https://github.com/larrydodson/bikesharing/blob/main/tripduration_dt_codeline.png) |
-   | Added new column within the df: tripduration_dt | ![tripduration_dt_table.png](https://github.com/larrydodson/bikesharing/blob/main/tripduration_dt_table.png) |
+   | Added new column within the dataframe: tripduration_dt | ![tripduration_dt_table.png](https://github.com/larrydodson/bikesharing/blob/main/tripduration_dt_table.png) |
    | Confirming the data type of the new column.<br> and, Outputting a new csv file, without the df index. | ![citibike_datatypes.png](https://github.com/larrydodson/bikesharing/blob/main/citibike_datatypes.png) |
    
-   
+ 
 .
 
 ### Deliverable 2: Create Visualizations for the Trip Analysis
 
-#### Visualizations showing:  (There are at least seven visualizations for the NYC Citibike analysis, and a description of the results for each visualization ).
-  1. How long bikes are checked out for all riders and genders.
-  2. How many trips are taken by the hour for each day of the week, for all riders and genders.
-  3. A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
-
+#### Visualizations for the NYC Citibike analysis, and a description of the results for each visualization.
 
 
    | **Item Description** | **Visualization** |
@@ -83,17 +79,14 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
 
 ### Deliverable 3: Create a Story and Report for the Final Presentation
 
-
-
-
  
    | **Story** | **Visualization** |
-   | :---: | :---: |
-   | **1** | ![CitiBike_DashB1.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB1.png) |
-   | **2** | ![CitiBike_DashB2.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB2.png) | 
-   | **3** | ![CitiBike_DashB3.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB3.png) | 
-   | **4** | ![CitiBike_DashB4.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB4.png) |    
-   | **5** | ![CitiBike_DashB5.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB5.png) |
+   | :--- | :---: |
+   | **1.**  - Total number of Rides = 2,344,224.  <br>- Aug is a busy month, with higher tourist traffic. <br>- Ave trip duration is higher with younger riders. <br>- By Users, or Riders, most are Subscribers, and most are Males. <br>- The Peak Hours in a given day are from 3PM to 8PM. <br>- There are 1,000s of Starting and respective Ending locations.) | ![CitiBike_DashB1.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB1.png) |
+   | **2.**  -  | ![CitiBike_DashB2.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB2.png) | 
+   | **3.**  -  | ![CitiBike_DashB3.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB3.png) | 
+   | **4.**  -  | ![CitiBike_DashB4.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB4.png) |    
+   | **5.**  -  | ![CitiBike_DashB5.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB5.png) |
 
 
 <br>
@@ -111,7 +104,7 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
   2. def 
 
    | **Item Description** | **Visualization** |
-   | :---: | :---: |
+   | :--- | :---: |
    | **1. Average Trip Duration by Customer Type and Gender** | ![AveTripDur_CustGen_bar.png](https://github.com/larrydodson/bikesharing/blob/main/AveTripDur_CustGen_bar.png) |
    | **2. Most Popular Routes, by Top Ten Starting Locations** | ![Routes_StartEnd_bar.png](https://github.com/larrydodson/bikesharing/blob/main/Routes_StartEnd_bar.png) |
 
