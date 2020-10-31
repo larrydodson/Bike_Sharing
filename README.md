@@ -82,11 +82,11 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
  
    | **Story** | **Visualization** |
    | :--- | :---: |
-   | **1.**  Total number of Rides = 2,344,224.  <br>- Aug is a busy month, with higher tourist traffic. <br>- Ave trip duration is higher with younger riders. <br>- By Users, or Riders, most are Subscribers, and most are Males. <br>- The Peak Hours in a given day are from 3PM to 8PM. <br>- There are 1,000s of Starting and respective Ending locations.) | ![CitiBike_DashB1.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB1.png) |
-   | **2.**  Customers: Info to help predict User Profiles <br>- Subscribers are >4 times the no. of non-Subscribers. <br>- Ave Trip Duration is higher with Females, and Customers (non-Subscribers), with much higer Trip Durations. | ![CitiBike_DashB2.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB2.png) | 
+   | **1.**  Total number of Rides = 2,344,224.  <br>- Aug is a busy month, with higher tourist traffic. <br>- Ave trip duration is higher with younger riders. <br>- By Users, or Riders, most are Subscribers, and most are Males. <br>- The Peak Hours in a given day are from 3PM to 8PM. <br>- There are 1,000s of Starting and respective Ending locations. | ![CitiBike_DashB1.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB1.png) |
+   | **2.**  Customers: Info to help predict User Profiles <br>- Subscribers are >4 times the no. of non-Subscribers. <br>- Ave Trip Duration is higher with Females, and also non-Subscribers (Customers), with much higer Trip Durations. | ![CitiBike_DashB2.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB2.png) | 
    | **3.**  A balance exists at a higher no. of Male Users, with longer Trips by Females Users. <br>- The most used times/days are also by the highest overall Users, Males, with Peak Times on Thurs and Fridays, and next busiest on Mon and Tues.  | ![CitiBike_DashB3.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB3.png) | 
    | **4.**  A Focus on Trip Routes will allow for good Planning and inventory locations for equipment. <br>- There are thousands of Starting and Ending locations, with most as the same location. | ![CitiBike_DashB4.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB4.png) |    
-   | **5.**  Bicycle Usage is shown, and can be used as  preparation planning for Maintence as a Major Cost. <br>- Other major costs are likely to be: Initial Capital Equipment, Labor, Storage, Licensing fees, Training, Insurance. <br>- With unique I.D.s on equipment, Maintenance and Inventory locations can be tracked and updated, to plan for cost of these items, and most efficient locations. | ![CitiBike_DashB5.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB5.png) |
+   | **5.**  Bicycle Usage tracking can be used in preparation planning for Maintenance as a Major Cost. <br>- Other major costs are likely to be: Initial Capital Equipment, Labor, Storage, Licensing fees, Training, Insurance. <br>- With unique I.D.s on equipment, Maintenance and Inventory locations can be tracked and updated, to plan for cost of these items, and most efficient locations. | ![CitiBike_DashB5.png](https://github.com/larrydodson/bikesharing/blob/main/CitiBike_DashB5.png) |
 
 
 <br>
@@ -95,8 +95,7 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
 
 # Summary
 
-###  a high-level summary of the results 
-   Abc def sllsl.
+####  Using the information from NYC Citibike is very valuable in planning for a new company to do similar business in Des Moines. Although Des Moines if very different from NYC, much information and the overall business plan can benefit from this information is used properly. From it we can estimate Users (customers), Lengths of time of checkouts by Users, the equipment types and quantities, and the locations. <br> What is needed to complete a business plan are costs of doing business, including the capital equipment, maintenance and repairs, insurance, licensing and permits, legal costs for set up and protections, and to arrive at a target rental fee structure. 
 
 
 ### Additional visualizations for future analysis (with the given dataset).
@@ -105,11 +104,9 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
 
    | **Item Description** | **Visualization** |
    | :--- | :---: |
-   | **1. Average Trip Duration by Customer Type and Gender** | ![AveTripDur_CustGen_bar.png](https://github.com/larrydodson/bikesharing/blob/main/AveTripDur_CustGen_bar.png) |
-   | **2. Most Popular Routes, by Top Ten Starting Locations** | ![Routes_StartEnd_bar.png](https://github.com/larrydodson/bikesharing/blob/main/Routes_StartEnd_bar.png) |
-
-
-
+   | **1. Average Trip Duration by Customer Type and Gender** <br> A further deep-dive into the customer, and the reasons for using the services would be helpful to maintain competitiveness to reach profitability and against other similar competing services.  | ![AveTripDur_CustGen_bar.png](https://github.com/larrydodson/bikesharing/blob/main/AveTripDur_CustGen_bar.png) |
+   | **2. Most Popular Routes, by Top Ten Starting Locations** <br> Additional and more complete information on the most popular or used bike routes would be helpful in planning for equipement usage, durations, and inventory locations, and servce team member locations. | ![Routes_StartEnd_bar.png](https://github.com/larrydodson/bikesharing/blob/main/Routes_StartEnd_bar.png) |
+   
 .
 
 .end
