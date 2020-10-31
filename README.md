@@ -1,19 +1,17 @@
 # bikesharing
 UTMCC DataViz Module 14, NYC_CitiBike_Challenge
 
-### Link to the Story at Tableau Public:  
-  [https://public.tableau.com/profile/larry.dodson#!/vizhome/NYCCitibikeAnalysisStoryPresentation/NYCCityBikeStory?publish=yes](https://public.tableau.com/profile/larry.dodson#!/vizhome/NYCCitibikeAnalysisStoryPresentation/NYCCityBikeStory?publish=yes)
+## Title: NYC Citibike Analysis as a Study for a New Business in Des Moines 
 
 
-
-## Title: NYC Citibike Analysis as a Study for a New Business in Des Moines
+| :--- | :---:|
+| Link to the Story at Tableau Public: | [https://public.tableau.com/profile/larry.dodson#!/vizhome/NYCCitibikeAnalysisStoryPresentation/NYCCityBikeStory?publish=yes](https://public.tableau.com/profile/larry.dodson#!/vizhome/NYCCitibikeAnalysisStoryPresentation/NYCCityBikeStory?publish=yes) |
 
 
 ---
 
 ## Contents 
-  * Overview
-    - Purpose
+  * Overview and Purpose
     - Resources
   * Results
   * Summary
@@ -21,12 +19,11 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
 
 ---  
 
-## Overview 
+## Overview and Purpose 
   
-  The project is in support of Kate, to generate a business presentation that supports establishing a bike share enterprise in Des Moines, IA. The source data on rides, customers and locations is from "NYC Citi Bike", already an operation in New York city. 
-
-   ### Purpose
-   To prepare a new business proposal that includes several data visualizations, dashboards and a data-analysis story in support of creating of a company for bicycle sharing/renting in Des Moines. The reference data is from the "NYC Citi Bike" bike-share business for August 2019, and used as a similar business comparison. Data handling and presentation Dashboards and Story building are created using the "Tableau Public" web-based software tool.
+  The project is to generate a business proposal that supports establishing a new bike-share company in Des Moines, IA. 
+  
+  The presentation materials of the proposal includes several key data visualizations of graphs and charts, and are used to create dashboards and a data-analysis Story. The reference source data is from the "NYC Citibike" bike-share business, for August 2019, and includes information on the number of rides, customers demographics, and stations' locations. Overall, the data is used as a comparison with a similar like-business. Data handling and presentation Dashboards and Story building are created using the "Tableau Public" web-based software tool.
  
    The deliverables are: 
    - Deliverable 1: Change Trip Duration to a Datetime Format
