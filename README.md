@@ -40,7 +40,7 @@ UTMCC DataViz Module 14, NYC_CitiBike_Challenge
 --- 
 
 ## Results
-   Below are outlined the results of the Challenge Deliverable items.  
+   Below are the results of the Challenge Deliverable items.  
    
 
 ### Deliverable 1: Change Trip Duration to a Datetime Format
