@@ -1,4 +1,4 @@
-# bikesharing
+# Bike_Sharing
 UTMCC DataViz Module 14, NYC_CitiBike_Challenge
 
 ## Title: NYC Citibike Analysis as a Study for a New Business in Des Moines 
